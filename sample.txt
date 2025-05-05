@@ -1,0 +1,5 @@
+this is first assignment
+in this we have to initialize a git repository
+after that creating the text file
+adding the file to staging 
+and also making initial commit 
