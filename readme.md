@@ -1,3 +1,7 @@
+# Assignment 2
+This repository contains Git basics practice.
+
+
 #  Assignment 1 – Git Commit History Demo
 
 This project demonstrates basic Git operations such as initializing a repository, staging files, making commits, and viewing commit history.
