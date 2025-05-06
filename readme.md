@@ -41,4 +41,6 @@ Below is a screenshot of the `git log` output and a brief description of each co
 _______________________________________________________________
 Changing the readme file in feature brach and pushing to github 
 _______________________________________________________________
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/f03e31f4-dd57-43dc-a00f-c22aeeabb93a" />
+
 
